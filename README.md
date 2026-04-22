@@ -8,8 +8,6 @@ This project analyzes the journey from crime reporting to final conviction using
 
 ## Questions We Will Explore
 
-## Questions We Will Explore
-
 ### 1. Which categories of crime contribute the largest share of convicted prisoners in India?
 
 1.1 How has the relative contribution of violent offences against the human body versus property offences to total state‑level convictions changed from 2019 to 2023? Are we imprisoning more people for violent acts or for property disputes over time?
