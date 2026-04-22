@@ -8,13 +8,14 @@ This project analyzes the journey from crime reporting to final conviction using
 
 ## Questions We Will Explore
 
-1. 
+1. Which categories of crime contribute the largest share of convicted prisoners in India?
 
-2. 
+2. Do states exhibit distinct “crime profiles” based on the composition of convictions?
 
-3. 
+3. How significant are crimes against women within the overall prison population?
 
-4. 
+4. Are crime conviction patterns stable over time?
+
 
 
 
