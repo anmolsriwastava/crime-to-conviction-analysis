@@ -1,7 +1,5 @@
 # Crime to Conviction Analysis
 
-**Data Analysis & Research Project**
-
 ## Overview
 
 This project analyzes the journey from crime reporting to final conviction using real-world criminal justice data. The focus is on understanding patterns, bottlenecks, and factors that influence conviction rates, case durations, and justice delivery efficiency.
